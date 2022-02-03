@@ -44,3 +44,13 @@
 }
 
 /*Nav bar end */
+
+/* Logo */
+
+.logolink {
+  position: absolute;
+  width: 100px;
+  left: 25px;
+  top: -10px;
+}
+
